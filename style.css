@@ -1,4 +1,9 @@
 /* Style Default */
+@font-face {
+  font-family: "Slabo 27px";
+  src: url('https://fonts.googleapis.com/css?family=Slabo+27px') format('truetype');
+}
+
 body {
     font-family: 'Slabo 27px', serif;
     background-image: url("img/sample-pattern.png");
