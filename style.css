@@ -46,11 +46,16 @@ body {
     background-image: url("img/Jakarta_banner.jpg");
     color: white;
     text-align: center;
-    height: 60px;
+    height: auto;
     position: absolute;
     
-    bottom: 0;
+    bottom: 0px;
     width: 100%;
+  }
+
+  footer a {
+    text-decoration: none;
+    color: antiquewhite;
   }
   
   section a {
